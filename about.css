@@ -1,0 +1,397 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-position: cover;
+    background-image: url(/images/sky.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 4350px;
+    
+}
+
+li 
+{
+  display: flex;
+  padding: 30px;
+  float: right;
+ 
+}
+li a{
+    color: rgb(236, 208, 47);
+}
+h1{
+    color: rgb(218, 192, 47);
+    padding: 20px;
+}
+p{
+    color: white;
+}
+
+
+
+.dre-1{
+    width: 410px;
+    width: 400px;
+
+}
+.dre2{
+    width: 420px;
+    width: 400px;
+    margin-left: 33%;
+    margin-top: -49%;
+    height: 510px;
+   
+}
+.dre3{
+    width: 420px;
+    width: 420px;
+    margin-left: 62%;
+    margin-top: -47%;
+    height: 510px; 
+}
+.ball1{
+    margin-top: 5%;
+    
+}
+
+
+.ball2{
+    margin-left: 61%;
+    margin-top: -43%;
+    
+
+}
+.ball3{
+    margin-left: 29%;
+    margin-top: -54%;
+}
+.tru1{
+    width: 300PX;
+    margin-left: 35%;
+    margin-top: -50%;
+    
+    
+}
+.tru2{
+   margin-top: 2%;
+}
+
+.tru3{
+    margin-left: 70%;
+    margin-top: -43%;
+    margin-bottom:10%;
+   
+}
+.dress h1{
+    margin-left: 33%;
+    padding-bottom: 6%;
+    margin-top: 3%;
+    font-family: sans-serif;
+    font-size: 40px;
+   
+}
+.dress2 h1{
+    margin-left: 33%;
+    padding-bottom: 4%;
+    margin-top: 7%;
+    font-family: sans-serif;
+    font-size: 40px;
+}
+.dress3 h1{
+    font-size: 38px;
+    margin-left: 33%;
+    font-family: sans-serif;
+    margin-top: 10%;
+    
+}
+.dis1{
+    background-color: rgb(146, 125, 2);
+    width: 130px;
+    text-align: center;
+    border-radius: 7px;
+    margin-left: 11%;
+    font-size: 18px;
+    font-family: sans-serif;
+   
+}
+.dis2{
+    background-color: rgb(146, 125, 2);
+    width: 130px;
+    text-align: center;
+    border-radius: 7px;
+    margin-left: 43%;
+    margin-top: 4%;
+    font-size: 18px;
+    font-family: sans-serif;
+    
+}
+.dis3{
+    background-color: rgb(146, 125, 2);
+    width: 130px;
+    text-align: center;
+    border-radius: 7px;
+    margin-left: 78%;
+    font-size: 18px;
+    font-family: sans-serif;
+    margin-top: 2%;
+    
+    
+}
+.des1{
+    background: rgb(146, 125, 2);
+    width: 130px;
+    text-align: center;
+    border-radius: 7px;
+    font-size: 18px;
+    font-family: sans-serif;
+    margin-left: 5%;
+
+}
+.des2{
+    background: rgb(146, 125, 2);
+    width: 130px;
+    margin-left: 40%;
+    border-radius: 7px;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 4%;
+ 
+}
+.des3{
+    background: rgb(146, 125, 2);
+    margin-left: 80%;
+    width: 130px;
+    border-radius: 7px;
+    font-size: 18px;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: -2%;
+}
+
+
+.tra1{
+    background-color: rgb(146, 125, 2);
+    width: 130px;
+    border-radius: 7px;
+    font-size: 18px;
+    font-family: sans-serif;
+    margin-left: 11%;
+    text-align: center;
+}
+.tra2{
+    background-color: rgb(146, 125, 2);
+    width: 130px;
+    border-radius: 7px;
+    font-size: 18px;
+    font-family: sans-serif;
+    margin-left: 45%;
+    text-align: center; 
+}
+.tra3{
+    background-color: rgb(146, 125, 2);
+    width: 130px;
+    border-radius: 7px;
+    font-size: 18px;
+    font-family: sans-serif;
+    margin-left: 80%;
+    text-align: center;
+    margin-top: -7%;
+}
+.shoes{
+    margin-top: 10%;
+}
+
+.he h1{
+    font-size: 39px;
+    font-family: sans-serif;
+    margin-left: 39%;
+    margin-top: 5%;
+    width: 140px;
+    
+   
+}
+.shu1{
+    
+    width: 300px;
+    text-align: center;
+    margin-left: 5%;
+    height: 250px;
+    background-color: rgb(7, 102, 119);
+    border-radius: 30px;
+    margin-top: 1%;
+}
+.csh1{
+    background-color: rgb(146, 125, 2);
+    border-radius: 7px;
+    width: 110px;
+    text-decoration: solid;
+    text-align: center;
+    margin-left: 12%;
+    margin-top: 4%;
+    font-size: 20px;
+    height: 30px;
+    
+   
+}
+.shu2{
+    
+    width: 300px;
+    size: 30px;
+    height: 250px;
+    margin-left: 68%;
+    margin-top: -26%;
+    background-color: rgb(7, 107, 119);
+    border-radius: 30px;
+
+   
+}
+.csh2{
+    background-color: rgb(146, 125, 2); 
+    border-radius: 7px; 
+    width: 120px; 
+    text-align: center;
+    margin-left: 44%;
+    margin-top: 4%;
+    font-size: 20px;
+    height: 30px;
+}
+.shu3{
+    width: 300px;
+    size: 30px;
+    height: 250px;
+    margin-left: 37%;
+    margin-top: -26%;
+    background-color: rgb(7, 102, 119);
+    text-align: center;
+    border-radius: 30px;
+}
+.csh3{
+    background-color: rgb(146, 125, 2); 
+    border-radius: 7px; 
+    width: 120px; 
+    text-align: center;
+    margin-left: 73%;
+    margin-top: 5%; 
+    font-size: 20px;
+    height: 30px;
+}
+.heel1{
+    margin-left: 4%;
+    margin-top: 14%;
+    background-color: rgb(7, 102, 119);
+    width: 270px;
+    border-radius: 20px;
+
+}
+.doo1{
+    background-color: rgb(146, 125, 2);
+    border-radius: 7px;
+    width: 110px;
+    text-decoration: solid;
+    text-align: center;
+    margin-left: 10%;
+    margin-top: 4%;
+    font-size: 20px;
+    height: 30px;
+
+}
+
+.heel2{
+    margin-left: 37%;
+    margin-top: -28%;
+    background-color: rgb(7, 102, 119);
+    width: 270px;
+    border-radius: 20px;
+}
+.doo2{
+    background-color: rgb(146, 125, 2); 
+    border-radius: 7px; 
+    width: 120px; 
+    text-align: center;
+    margin-left: 44%;
+    margin-top: 4%;
+    font-size: 20px;
+    height: 30px; 
+}
+
+.heel3{
+    margin-left: 70%;
+    margin-top: -27.5%;
+    background-color: rgb(7, 102, 119);
+    width: 270px;
+    align-items: center;
+    border-radius: 20px;
+
+}
+.doo3{
+    background-color: rgb(146, 125, 2); 
+    border-radius: 7px; 
+    width: 120px; 
+    text-align: center;
+    margin-left: 73%;
+    margin-top: 4%; 
+    font-size: 20px;
+    height: 30px; 
+}
+
+h1{
+    font-size: 35px;
+    margin-top: -3%;
+    font-family: sans-serif;
+    
+}
+.bags{
+    margin-top: 9%;
+}
+
+.bags h1{
+    margin-left: 40%;
+    margin-bottom: 7%;
+}
+
+.bag1{
+    background-color: rgb(7, 102, 119);
+    width: 350px;
+    border-radius: 30px;
+    margin-left: 2%;
+
+}
+.p1{
+    font-size: 20px;
+    margin-left: 7%;
+    background-color: rgb(146, 125, 2);
+    width: 100px;
+    text-align: center;
+    border-radius: 7px;
+}
+.bag2{
+    background-color: rgb(7, 102, 119); 
+    width: 320px;
+    margin-left: 35%;
+    margin-top: -29%;
+    border-radius: 30px;
+}
+.p2{
+    font-size: 20px;
+    background-color: rgb(146, 125, 2);
+    width: 100px;
+    text-align: center;
+    border-radius: 7px;
+    margin-left: 44%;
+}
+.bag3{
+    background-color: rgb(7, 102, 119); 
+    width: 320px;
+    margin-left: 70%;
+    margin-top: -28.5%;
+    border-radius: 30px;
+}
+.p3{
+    font-size: 20px;
+    background-color: rgb(146, 125, 2);
+    width: 100px;
+    text-align: center;
+    border-radius: 7px;
+    margin-left: 79%;  
+}
+ 
